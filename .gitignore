@@ -1,0 +1,15 @@
+# Binaries
+a.out
+unit_tests
+
+# Objects
+*.o
+*.gcda
+*.gcno
+
+# Jetbrains
+compile_commands.json
+.idea/
+
+# Visual Studio Code
+.vscode/
